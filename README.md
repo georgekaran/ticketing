@@ -19,6 +19,20 @@ A microservices event-driven project using K8S, Docker and Node.js.
 3. Docker   - https://docs.docker.com/get-docker/
 4. Node.js  - https://nodejs.org/en/
 
+## Running
+
+**Note:** Make sure to start the minikube
+
+```bash
+  minikube start
+```
+
+Then on the root of the project:
+
+```bash
+  skaffold dev
+```
+
 ## About NATS
 
 ![Logo](https://nats.io/img/logo.png)
