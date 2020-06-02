@@ -11,6 +11,7 @@ interface TicketDoc extends moongose.Document {
   title: string;
   price: number;
   userId: string;
+  orderId?: string;
   version: number;
 }
 
@@ -31,6 +32,9 @@ const ticketSchema = new moongose.Schema(
     userId: {
       type: String,
       required: true,
+    },
+    orderId: {
+      type: String,
     },
   },
   {
