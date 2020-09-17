@@ -1,5 +1,17 @@
 # Ticketing Project
 
+## Status
+![deploy-payments](https://github.com/georgekaran/ticketing/workflows/deploy-payments/badge.svg)
+![deploy-expiration](https://github.com/georgekaran/ticketing/workflows/deploy-expiration/badge.svg)
+![deploy-tickets](https://github.com/georgekaran/ticketing/workflows/deploy-tickets/badge.svg)
+![deploy-orders](https://github.com/georgekaran/ticketing/workflows/deploy-orders/badge.svg)
+![deploy-client](https://github.com/georgekaran/ticketing/workflows/deploy-client/badge.svg)
+![deploy-auth](https://github.com/georgekaran/ticketing/workflows/deploy-auth/badge.svg)
+![tests-tickets](https://github.com/georgekaran/ticketing/workflows/tests-tickets/badge.svg)
+![tests-payments](https://github.com/georgekaran/ticketing/workflows/tests-payments/badge.svg)
+![tests-orders](https://github.com/georgekaran/ticketing/workflows/tests-orders/badge.svg)
+![tests-auth](https://github.com/georgekaran/ticketing/workflows/tests-auth/badge.svg)
+
 A microservices event-driven project using K8S, Docker and Node.js.
 
 ## Project Tecnologies:
