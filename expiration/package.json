@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "@gmtickets/common": "^1.0.12",
-    "bull": "^3.14.0",
+    "bull": "^4.3.0",
     "node-nats-streaming": "^0.3.2",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.8.3"
